@@ -86,7 +86,7 @@ Install dependencies:
 
 pip install -r requirements.txt
 ```
-Configure database connections in DatabaseConfig.py:
+Configure DB connections in DatabaseConfig.py:
 
 ```bash
 
